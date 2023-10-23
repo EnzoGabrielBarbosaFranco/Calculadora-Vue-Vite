@@ -1,10 +1,6 @@
-# calculator
+# Calculadora
 
-Simple calculator app build with javascript
-
-[Live Demo](https://calculator-vert-beta.vercel.app/)
-
-## Stack
+## Tecnologias
 - [VueJS](https://vuejs.org/)
 -	[Vite](https://vitejs.dev/)
 - [Tailwindcss](https://tailwindcss.com/)
